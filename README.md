@@ -3,7 +3,7 @@
 Projeto Desenvolvido Durante o Curso de JavaScript da B7Web.
 
 Acesse:
-https://paulovct.github.io
+https://paulovct.github.io/Urna-Eletronica
 
 
 votos possiveis:
